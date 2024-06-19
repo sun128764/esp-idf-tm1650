@@ -6,7 +6,7 @@ C library for interfacing ESP32 with TM1650 4-dig led display, packaged as ESP-I
 
 This directory is an ESP-IDF component. Clone it (or add it as submodule) into `components` directory of the project.
 
-## Emaple
+## Example
 This is a basic example to display "23:45" on the LED display and set the bright to level 1.
 ```c
 #include "tm1650.h"
