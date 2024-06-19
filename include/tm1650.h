@@ -24,7 +24,7 @@ extern "C"
     {
         struct
         {
-            i2c_port_t port;
+            i2c_port_num_t port;
             int sda_gpio;
             int scl_gpio;
             int rw_timeout_ms;
